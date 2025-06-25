@@ -1,16 +1,38 @@
-## Hi there 👋
+# 👋 Hey, I’m **Vladyslav**
 
-<!--
-**horodvladys/horodvladys** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 **Full-Stack Web Developer**  
+🧠 7+ years of coding, shipping, and solving problems
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## ⚙️ Tech I Love
+- **React** / **Vue 3** / **Node.js**
+- **MongoDB** / **Express** / **Tailwind CSS**
+- **AWS** (EC2, S3, Lambda)  
+- **CI/CD** pipelines with GitHub Actions & GitLab CI
+
+---
+
+## 💡 What I Bring
+- Clean, maintainable code ✨  
+- Pixel-perfect frontend polish 🎨  
+- Scalable backend logic 🔧  
+- Fast delivery, clear communication 💬  
+
+---
+
+## 🛠️ Dev Vibes
+- Bug whisperer 🐛  
+- Dark mode enthusiast 🌙  
+- Keyboard click addict ⌨️  
+- Docs over StackOverflow (most days) 📚  
+- Constantly learning, building, tinkering 🔄
+
+---
+
+## 🚀 Let’s Build Something Cool
+Coffee-fueled. Code-driven.  
+Open to collaboration, ideas, and good UI.
+
+---
+
