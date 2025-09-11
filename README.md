@@ -6,10 +6,10 @@
 ---
 
 ## ⚙️ Tech I Love
-- **React** / **Vue 3** / **Node.js**
-- **MongoDB** / **Express** / **Tailwind CSS**
-- **AWS** (EC2, S3, Lambda)  
 - **CI/CD** pipelines with GitHub Actions & GitLab CI
+- **AWS** (EC2, S3, Lambda)  
+- **MongoDB** / **Express** / **Node.js**
+- **React** / **Vue 3** / **Tailwind CSS**
 
 ---
 
