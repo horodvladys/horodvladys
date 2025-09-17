@@ -20,6 +20,16 @@
 - Fast delivery, clear communication 💬  
 
 ---
+## 👤 Personal Traits
+- Ownership mindset – treats projects as if they are their own.
+- AI-assisted – uses AI tools (ChatGPT etc.) effectively to develop faster and smarter.
+- Fast & efficient – delivers solutions quickly while maintaining quality.
+- Creative problem-solver – can take an idea and make it real.
+- Long-term thinking – writes code with future implications in mind.
+- Independent & self-learner – finds solutions without constant supervision.
+- Communicative – works independently but communicates clearly.
+
+---
 
 ## 🛠️ Dev Vibes
 - Bug whisperer 🐛  
