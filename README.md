@@ -42,7 +42,7 @@
 
 ## 🚀 Let’s Build Something Cool
 Coffee-fueled. Code-driven.  
-Open to collaboration, ideas, and good UI.
+Open to collaboration, ideas, and good UX/UI.
 
 ---
 
