@@ -5,7 +5,7 @@
 
 ---
 
-## ⚙️ Tech I Love
+## ⚙️ What I Love is Tech
 - **CI/CD** pipelines with GitHub Actions & GitLab CI
 - **AWS** (EC2, S3, Lambda)  
 - **MongoDB** / **Express** / **Node.js**
