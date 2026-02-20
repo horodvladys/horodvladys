@@ -1,4 +1,4 @@
-# 👋 Hey, I’m **Vladysan**
+# 👋 Hey, I’m **Kaman**
 
 🎯 **Full-Stack Web Developer**  
 🧠 7+ years of coding, shipping, and solving problems
